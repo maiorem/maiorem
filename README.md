@@ -8,7 +8,7 @@
 ### ⚡ Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=PHP&logoColor=white)]() 
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]() 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]() 
 <br />
