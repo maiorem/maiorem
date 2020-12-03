@@ -16,7 +16,7 @@
 [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)]()
 <br />
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]()
-[![AmazonAWS Badge](https://img.shields.io/badge/AmazonAWS-232F3E?logo=AmazonAWS&logoColor=white)]()
+[![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=AWS&logoColor=white)]()
 <br />
  [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
  [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() 
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 <br />
 
 ![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=dracula)
+
+### 📫 Contact me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:maiorem00@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyoung-hong/)](https://www.linkedin.com/in/seyoung-hong/)  
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/hongseyoung)](https://www.kaggle.com/hongseyoung) 
