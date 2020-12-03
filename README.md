@@ -21,11 +21,8 @@
  [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
 
 <br />
-<br />
-<br />
 
 🌱 I’m currently learning AI
-
 
 <!--
 **maiorem/maiorem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +38,4 @@ Here are some ideas to get you started:
 -->
 <br />
 <br />
-<br />
-<br />
-
 ![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=dracula)
