@@ -3,6 +3,7 @@
 <br />
 <br />
  * 🌱 I’m currently learning AI
+<br />
 
 ### ⚡ Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
