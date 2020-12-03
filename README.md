@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=radical)
+![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=dracula)
