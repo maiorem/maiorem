@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
 
 ![Seyoung's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=dracula)
 
 ### 📫 Contact me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:maiorem00@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyoung-hong-8155b21bb//)](https://www.linkedin.com/in/seyoung-hong-8155b21bb/)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:maiorem00@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyoung-hong-8155b21bb//)](https://www.linkedin.com/in/seyoung-hong-8155b21bb/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/hongseyoung)](https://www.kaggle.com/hongseyoung) 
