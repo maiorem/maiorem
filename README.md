@@ -14,7 +14,7 @@
 [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)]()
 <br />
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]()
-[![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=Flaskg&logoColor=white)]()
+[![flask Badge](https://img.shields.io/badge/flask-000000?logo=flaskg&logoColor=white)]()
 [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=AWS&logoColor=white)]()
 <br />
  [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
