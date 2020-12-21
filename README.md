@@ -17,11 +17,11 @@
 [![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=Amazon_AWS&logoColor=white)]()
 <br />
+ [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
+ [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() 
+ [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
  [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
  [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() 
- [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() 
- [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
- [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
 
 <br />
 
