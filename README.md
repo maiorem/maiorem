@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 -->
 
 [![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/maiorem/maiorem/master/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
         
 ### 📫 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:maiorem00@gmail.com)
