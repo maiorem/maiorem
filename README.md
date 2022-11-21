@@ -34,6 +34,7 @@
  [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() 
  [![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)]() 
 
+<br />
 
 ### ✨ Certificate
 Tensorflow Develope certification    
@@ -44,7 +45,6 @@ Tensorflow Develope certification
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:maiorem00@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyoung-hong-8155b21bb//)](https://www.linkedin.com/in/seyoung-hong-8155b21bb/)
 
-<br />
 <br />
 
 
