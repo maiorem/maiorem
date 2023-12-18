@@ -36,9 +36,6 @@
 
 <br />
 
-### ✨ Certificate
-Tensorflow Develope certification    
-정보처리기사
 
 
 ### 📫 Contact me
